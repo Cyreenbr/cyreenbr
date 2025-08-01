@@ -10,9 +10,9 @@ I'm Cyreen, a passionate Software Engineering student at ISAMM . I thrive on bui
 
 - 🔭 Currently developing **Smart SDG** - Interactive platform for ONAGRI with predictive analytics
 - 🌱 Mastering **Flutter** for cross-platform mobile development
-- 💡 Interested in **AI**
-- ⚡ Fun fact: I combine my love for painting with tech through UI/UX design
-
+- 💡 Exploring **AI**
+- ⚡ Fun fact: I switch between **VS Code** and **watercolor** — one paints logic, the other paints emotions. 🎨💻
+- 
 ## 🛠️ Technical Stack
 
 ### Programming Languages
@@ -46,6 +46,7 @@ I'm Cyreen, a passionate Software Engineering student at ISAMM . I thrive on bui
 | Project | Technologies | Description |
 |---------|--------------|-------------|
 | **[Smart SDG]** | Python, Streamlit , LSTM | Interactive dashboards with precipitation forecasting for ONAGRI |
+| **[Flutter Camp App]** | Flutter, Firebase | Mobile app for managing camps and trips |
 | **[Flower Identifier]** | Python, ML, Django | Commercial app with flower recognition via camera |
 | **[ISAMM Platform]** | MERN Stack (MongoDB, Express, React, Node) | Fullstack university platform using Scrum methodology |
 | **[Under the Sea]** | Unity, C# | Immersive underwater game experience |
