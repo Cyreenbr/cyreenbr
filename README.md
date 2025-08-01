@@ -6,11 +6,11 @@
 
 ## 👩‍💻 About Me
 
-I'm Syreen (Cyreen), a passionate Software Engineering student at ISAMM Manouba specializing in software engineering. I thrive on building innovative solutions that blend creativity with technical excellence.
+I'm Cyreen, a passionate Software Engineering student at ISAMM . I thrive on building innovative solutions that blend creativity with technical excellence.
 
 - 🔭 Currently developing **Smart SDG** - Interactive platform for ONAGRI with predictive analytics
-- 🌱 Mastering **Flutter & Dart** for cross-platform mobile development
-- 💡 Interested in **AR integration** and **predictive modeling**
+- 🌱 Mastering **Flutter** for cross-platform mobile development
+- 💡 Interested in **AI**
 - ⚡ Fun fact: I combine my love for painting with tech through UI/UX design
 
 ## 🛠️ Technical Stack
@@ -45,37 +45,19 @@ I'm Syreen (Cyreen), a passionate Software Engineering student at ISAMM Manouba 
 
 | Project | Technologies | Description |
 |---------|--------------|-------------|
-| **[Smart SDG]** | Python, React, LSTM | Interactive dashboards with precipitation forecasting for ONAGRI |
-| **[EduSim]** (1st Place Hackathon) | Flutter, AR | AR training platform for professional education |
+| **[Smart SDG]** | Python, Streamlit , LSTM | Interactive dashboards with precipitation forecasting for ONAGRI |
 | **[Flower Identifier]** | Python, ML, Django | Commercial app with flower recognition via camera |
 | **[ISAMM Platform]** | MERN Stack (MongoDB, Express, React, Node) | Fullstack university platform using Scrum methodology |
 | **[Under the Sea]** | Unity, C# | Immersive underwater game experience |
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/yourusername">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical"/>
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=yourusername&theme=radical" alt="GitHub Streak"/>
-</div>
-
 ## 🏅 Certifications
+- Machine Learning with Python (FreeCodeCamp)
 - Front End Development Libraries (FreeCodeCamp)
 - Mobile Development with Flutter (Udemy)
 - Business English Certificate (Proficient)
 
 ## 📬 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sirine.berrible@gmail.com)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/syreen-berrbibe)
 
-<!-- Visitor Counter -->
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/yourusername/count.svg" />
-</p>
+
+
